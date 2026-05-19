@@ -12,4 +12,4 @@
 5. Configure the `StudioLive Console IP` and press [Save]
 
 ## Notes
-To use channel icon PNGs, place them in `companion/icons/studiolive/` and name each file to match the StudioLive icon label, for example `Kick.png` or `Lead Vocals.png`.
+Channel icon PNGs are included in the release package.
